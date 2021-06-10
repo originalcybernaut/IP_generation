@@ -6,7 +6,7 @@ Users may find this script useful if they need a quick data set while building I
 
 USAGE:
 
-./IP_gen.py <NUMBER OF DESIRED IP ADDRESSES>
+./IP_gen.py \<NUMBER OF DESIRED IP ADDRESSES>
   
 EXAMPLE:
   
